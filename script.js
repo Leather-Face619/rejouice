@@ -139,7 +139,7 @@ function pg4animation() {
             scrub: 2
         }
     })
-    gsap.to("#line", {
+    gsap.to("#pg4line", {
         width: '100%',
         duration: 1.4,
         scrollTrigger: {
